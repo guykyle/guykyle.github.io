@@ -9,3 +9,6 @@
 .test:hover {
   background-color: #069;
 }
+body {
+  margin: 0;
+}
